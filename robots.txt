@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://alaskabankruptcy.org/sitemap.xml
 
-Sitemap: https://alaskabankruptcy.org/feed.xml
+
+Sitemap: https://alaskabankruptcy.org/sitemapindex.xml
