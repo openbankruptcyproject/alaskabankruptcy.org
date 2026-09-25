@@ -1,5 +1,5 @@
-# Alaska Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# Alaska Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
 > Free Alaska bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Alaska exemptions, filing costs, means test, and what to expect in your case.
 
@@ -41,12 +41,12 @@ alaskabankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproje
 - Can Bankruptcy Stop an Eviction in Alaska?: https://alaskabankruptcy.org/eviction.html
 - Alaska Bankruptcy Exemptions - What You Can Keep: https://alaskabankruptcy.org/exemptions.html
 - Bankruptcy in Fairbanks, Alaska - Filing Guide &amp; Resources: https://alaskabankruptcy.org/fairbanks/
-- Alaska Bankruptcy FAQ - 15 Common Questions Answered: https://alaskabankruptcy.org/faq.html
+- Alaska Bankruptcy FAQ [2026]: D. Alaska Filing, 341 Meetings, and Chapter 13 Dismissal Rate: https://alaskabankruptcy.org/faq.html
 - How to Find Bankruptcy Filings in Alaska: https://alaskabankruptcy.org/find-bankruptcy-filing.html
 - Foreclosure and Bankruptcy in Alaska: https://alaskabankruptcy.org/foreclosure.html
 - Alaska Bankruptcy Glossary: https://alaskabankruptcy.org/glossary.html
 - Bankruptcy Income Limits in Alaska: https://alaskabankruptcy.org/income-limits.html
-- Alaska Bankruptcy - Chapter 7 & 13 Filing Guide: https://alaskabankruptcy.org/
+- Alaska Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://alaskabankruptcy.org/
 - Judgments and Bankruptcy in Alaska: https://alaskabankruptcy.org/judgments.html
 - Keep Your Car in Bankruptcy in Alaska: https://alaskabankruptcy.org/keep-your-car.html
 - Keep Your House in Bankruptcy in Alaska: https://alaskabankruptcy.org/keep-your-house.html
@@ -62,7 +62,7 @@ alaskabankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproje
 - Second Mortgages and Bankruptcy in Alaska: https://alaskabankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance in Alaska - Will I Lose My Clearance?: https://alaskabankruptcy.org/security-clearance.html
 - Small Business Bankruptcy in Alaska: https://alaskabankruptcy.org/small-business.html
-- Alaska Bankruptcy Statistics - Filing Data and Trends: https://alaskabankruptcy.org/statistics.html
+- Alaska Bankruptcy Statistics [2026]: D. Alaska PACER Filing Data and Dismissal Trends: https://alaskabankruptcy.org/statistics.html
 - What Bills to Stop Paying Before Bankruptcy in Alaska: https://alaskabankruptcy.org/stop-paying-bills.html
 - Student Loans and Bankruptcy in Alaska: https://alaskabankruptcy.org/student-loans.html
 - Surrendering Your Car in Alaska Bankruptcy - Process, Deficiency, Options: https://alaskabankruptcy.org/surrender-car.html
@@ -73,6 +73,7 @@ alaskabankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproje
 - Can I Travel During Chapter 13 in Alaska?: https://alaskabankruptcy.org/travel-chapter-13.html
 - Stop Wage Garnishment in Alaska with Bankruptcy: https://alaskabankruptcy.org/wage-garnishment.html
 - Privacy Policy: https://alaskabankruptcy.org/privacy.html
+- About alaskabankruptcy.org: https://alaskabankruptcy.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
